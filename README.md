@@ -1,3 +1,3 @@
 # configs
 
-config files
+Config files
